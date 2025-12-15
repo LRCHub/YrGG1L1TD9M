@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "好きにさせた癖に",
+  "base_artist": "あれくん",
+  "createdAt": "2025-12-15T03:43:34.263173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きにさせた癖に",
+      "artist": "あれくん",
+      "has_synced": true,
+      "path": "select/01_好きにさせた癖に_あれくん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きにさせた癖に - Sukinisaseta　Kuseni",
+      "artist": "あれくん",
+      "has_synced": true,
+      "path": "select/02_好きにさせた癖に_-_Sukinisaseta_Kuseni_あれくん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きにさせた癖に",
+      "artist": "あれくん",
+      "has_synced": true,
+      "path": "select/03_好きにさせた癖に_あれくん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きにさせた癖に",
+      "artist": "あれくん",
+      "has_synced": true,
+      "path": "select/04_好きにさせた癖に_あれくん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好きにさせた癖に (Studio Live Version)",
+      "artist": "Arekun",
+      "has_synced": true,
+      "path": "select/05_好きにさせた癖に_(Studio_Live_Version)_Arekun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きにさせた癖に",
+      "artist": "あれくん",
+      "has_synced": false,
+      "path": "select/pl_01_好きにさせた癖に_あれくん.txt"
+    }
+  ]
+}
